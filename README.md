@@ -11,11 +11,11 @@
  
 Newly Updated On : 25/01/2022 👆
 
-# 🙏 வணக்கம்! <img src="https://github.com/IamMohan07/IamMohan07/blob/iMvEtRi/gifs/Hi.gif" width="30px"></h2>
+# 🙏 வணக்கம்! <img src="https://github.com/IamMohan07/IamMohan07/blob/IamMohan/gifs/Hi.gif" width="30px"></h2>
 
 ## My Info <img src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/designs/iMvEtRi.gif" width="300" height="300" />
+<img align="right" alt="cmulay | Read Book" src="https://github.com/IamMohan/IamMohaI/blob/IamMohan/designs/IamMohan.gif" width="300" height="300" />
 
 [👋](https://t.me/My_Dear_LightBright) I'm [MOHAN](https://telegram.me/My_Dear_LightBright),
 
@@ -72,14 +72,6 @@ Newly Updated On : 25/01/2022 👆
 <br />
 
 ---
-
-**GitHub Stats ⚡**
-
-![Chart not found](https://github-readme-stats.vercel.app/api?username=IamMohan&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=IVETRI%27s+GitHub+Stats)
-
-
----
-
 
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
