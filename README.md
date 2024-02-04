@@ -11,7 +11,7 @@
  
 Newly Updated On : 25/01/2022 👆
 
-# 🙏 வணக்கம்! <img src="https://github.com/IamMohan07/IamMohan07/blob/IamMohan/gifs/Hi.gif" width="30px"></h2>
+# 🙏 வணக்கம்! <img src="https://github.com/IamMohan07/IamMohan07/blob/iMvEtRi/gifs/Hi.gif" width="30px"></h2>
 
 ## My Info <img src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/gifs/Hi.gif" width="30px"></h2>
 
