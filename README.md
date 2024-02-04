@@ -9,7 +9,7 @@
 # Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{IamMohan}/count.svg)
  
-Newly Updated On : __/0_/2024 👆
+Newly Updated On : --/0-/2024 👆
 
 # 🙏 வணக்கம்! <img src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/gifs/Hi.gif" width="30px"></h2>
 
