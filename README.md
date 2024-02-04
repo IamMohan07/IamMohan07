@@ -43,13 +43,13 @@ Newly Updated On : 25/01/2022 👆
 
 ### Connect with me:
 
-[<img align="left" alt="IVETRI | GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
-[<img align="left" alt="IVETRI | Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="IVETRI | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="IamMohan | GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
+[<img align="left" alt="IamMohan | Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="IamMohan | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-[website]: https://github.com/Ivetri/
-[email]: mailto:imvetri25@gmail.com
-[telegram]: https://t.me/imvetri
+[website]: https://github.com/IamMohan/
+[email]: mailto:mohankumar071104@gmail.com
+[telegram]: https://t.me/My_Dear_LightBright
 
 <br />
 <br />
@@ -77,7 +77,7 @@ Newly Updated On : 25/01/2022 👆
 
 **GitHub Stats ⚡**
 
-![Chart not found](https://github-readme-stats.vercel.app/api?username=IVETRI&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=IVETRI%27s+GitHub+Stats)
+![Chart not found](https://github-readme-stats.vercel.app/api?username=IamMohan&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=IVETRI%27s+GitHub+Stats)
 
 
 ---
