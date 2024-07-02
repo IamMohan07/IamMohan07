@@ -11,11 +11,11 @@
  
 Newly Updated On : --/0-/2024 👆
 
-# 🙏 வணக்கம்! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gi" width="30px"></h2>
+# 🙏 வணக்கம்! <img src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/gifs/Hi.gif" width="30px"></h2>
 
-## My Info <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gi" width="30px"></h2>
+## My Info <img src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/IamMohan07/IamMohan07/blob/main/gifs/IamMohan07.gif" width="300" height="300" />
+<img align="right" alt="cmulay | Read Book" src="https://github.com/IVETRI/IVETRI/blob/iMvEtRi/designs/iMvEtRi.gif" width="300" height="300" />
 
 [👋](https://t.me/My_Dear_LightBright) I'm [MOHAN](https://telegram.me/My_Dear_LightBright),
 
