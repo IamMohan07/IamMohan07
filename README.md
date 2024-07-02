@@ -11,7 +11,7 @@
  
 Newly Updated On : --/0-/2024 👆
 
-# 🙏 வணக்கம்! <img src=["https://github.com/IamMohan07/IamMohan07/blob/main/gifs/Hi.gif"] width="30px"></h2>
+# 🙏 வணக்கம்! <img src="https://github.com/IamMohan07/IamMohan07/blob/main/gifs/Hi.gif" width="30px"></h2>
 
 ## My Info <img src="https://github.com/IamMohan07/IamMohan07/blob/main/gifs/Hi.gif" width="30px"></h2>
 
